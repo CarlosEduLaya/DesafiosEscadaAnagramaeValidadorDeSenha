@@ -12,5 +12,5 @@ function escada(numero){
     return escadaInvertida;
 
 }
-
+module.exports = {escada};
 escada(6)
