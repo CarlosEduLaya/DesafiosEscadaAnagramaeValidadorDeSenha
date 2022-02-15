@@ -1,4 +1,4 @@
-# capgemini
+# <h1>capgemini</h1>
 Desafio Programação
 
 # Primeiro passo: 
@@ -6,20 +6,29 @@ Desafio Programação
    git clone https://github.com/CarlosEduLaya/capgemini.git. Para executar cada desafio basta seguir o passo a passo abaixo.
 # Desafio questão 1 (Como executar):
    3 formas para executar o codigo:
+   <br>
      -Para executar ele basta copiar tudo e executar no console do browser; 
+    <br> 
      -Abrir o vscode (se não tiver, instale!), vá extensões e instala o code Runner e executar no play que fica na parte superior a direita;
+    <br>
      -Entrar pelo terminal do Linux, Mac ou Windows acessar a pasta que está os desafios que é a "DesafioCapgemini" e rodar o comando node questao1.js
 
 # Desafio questão 2 (Como executar):
    3 formas para executar o codigo:
-     -Para executar ele basta copiar tudo e executar no console do browser; 
+   <br>
+     -Para executar ele basta copiar tudo e executar no console do browser;
+   <br>
      -Abrir o vscode (se não tiver, instale!), vá extensões e instala o code Runner e executar no play que fica na parte superior a direita;
+   <br>  
      -Entrar pelo terminal do Linux, Mac ou Windows acessar a pasta que está os desafios que é a "DesafioCapgemini" e rodar o comando node questao2.js
 
 # Desafio questão 3 (Como executar):
    3 formas para executar o codigo:
+   <br>
      -Para executar ele basta copiar tudo e executar no console do browser; 
+   <br>  
      -Abrir o vscode (se não tiver, instale!), vá extensões e instala o code Runner e executar no play que fica na parte superior a direita;
+   <br> 
      -Entrar pelo terminal do Linux, Mac ou Windows acessar a pasta que está os desafios que é a "DesafioCapgemini" e rodar o comando node questao3.js
 
 # Explicando questão 1: 
@@ -38,3 +47,7 @@ Desafio Programação
 
 # Explicando questão 3: 
      Ele recebe a palavra ovo e verifica quantos anagramas a nele retirando sempre uma letra e conferindo com a palavra ao contraria 
+     
+# Tecnologias utilizadas:
+     JavaScript, Regex e git.     
+     
