@@ -1,11 +1,11 @@
-# <h1>capgemini</h1>
+# <h1>Capgemini</h1>
 Desafio Programação
 
 # Primeiro passo: 
    acesse a url - https://github.com/CarlosEduLaya/capgemini clica em code >>> https >>> clica em copiar a url >>> vá em pasta de sua escolha, tenha o git instalado e der 
-   git clone https://github.com/CarlosEduLaya/capgemini.git. Para executar cada desafio basta seguir o passo a passo abaixo.
+   <strong><i>git clone https://github.com/CarlosEduLaya/capgemini.git</i></strong>. Para executar cada desafio basta seguir o passo a passo abaixo.
 # Segundo passo: 
-   Após fazer clone do projeto dar um npm install (Irá baixar todas dependencias do projeto)
+   Após fazer clone do projeto dar um <strong><i>npm install</i></strong> (Irá baixar todas dependencias do projeto)
 # Desafio questão 1 (Como executar):
    3 formas para executar o codigo:
    <br>
@@ -13,7 +13,7 @@ Desafio Programação
     <br> 
      -Abrir o vscode (se não tiver, instale!), vá extensões e instala o code Runner e executar no play que fica na parte superior a direita;
     <br>
-     -Entrar pelo terminal do Linux, Mac ou Windows acessar a pasta que está os desafios que é a "DesafioCapgemini" e rodar o comando node questao1.js
+     -Entrar pelo terminal do Linux, Mac ou Windows acessar a pasta que está os desafios que é a "DesafioCapgemini" e rodar o comando node <strong><i>node questao1.js</i></strong>
 
 # Desafio questão 2 (Como executar):
    3 formas para executar o codigo:
@@ -22,7 +22,7 @@ Desafio Programação
    <br>
      -Abrir o vscode (se não tiver, instale!), vá extensões e instala o code Runner e executar no play que fica na parte superior a direita;
    <br>  
-     -Entrar pelo terminal do Linux, Mac ou Windows acessar a pasta que está os desafios que é a "DesafioCapgemini" e rodar o comando node questao2.js
+     -Entrar pelo terminal do Linux, Mac ou Windows acessar a pasta que está os desafios que é a "DesafioCapgemini" e rodar o comando <strong><i>node questao2.js</i></strong>
 
 # Desafio questão 3 (Como executar):
    3 formas para executar o codigo:
@@ -31,11 +31,10 @@ Desafio Programação
    <br>  
      -Abrir o vscode (se não tiver, instale!), vá extensões e instala o code Runner e executar no play que fica na parte superior a direita;
    <br> 
-     -Entrar pelo terminal do Linux, Mac ou Windows acessar a pasta que está os desafios que é a "DesafioCapgemini" e rodar o comando node questao3.js
+     -Entrar pelo terminal do Linux, Mac ou Windows acessar a pasta que está os desafios que é a "DesafioCapgemini" e rodar o comando <strong><i>node questao3.js</i></strong>
 
 # Como executar os testes unitarios:
-   Apos ter a dependencia instalada que e o Jest que está no package.json, caso não tenha, volte ao "primeiro passo". Mas caso você já tenha dado esse comando e só 
-   rodar o comando npm run test.    
+   Após ter a dependencia instalada que é o Jest que está no arquivo package.json, e os testes unitarios estão no arquivo spec. Caso não tenha jest como depedencia volte ao "primeiro passo", mas caso você já tenha feito o primeiro passo, basta executar o comando <strong><i>npm run test</i></strong>.    
 
 # Explicando questão 1: 
     Primeiro ele entra no for e cada repetição ele coloca o * atraves do indice montando a escada, após isso ele entra no segundo for na posição 1 pois tem que tirar

@@ -1,4 +1,4 @@
-const  questao2  = require('./questao2')
+const  questao2  = require('../DesafioCapgemini/questao2')
 
 describe("Testando a questao 2", () =>{
     test('validadorSenha', () => {
