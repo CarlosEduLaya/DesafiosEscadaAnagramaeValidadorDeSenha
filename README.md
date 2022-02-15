@@ -4,6 +4,8 @@ Desafio Programação
 # Primeiro passo: 
    acesse a url - https://github.com/CarlosEduLaya/capgemini clica em code >>> https >>> clica em copiar a url >>> vá em pasta de sua escolha, tenha o git instalado e der 
    git clone https://github.com/CarlosEduLaya/capgemini.git. Para executar cada desafio basta seguir o passo a passo abaixo.
+# Segundo passo: 
+   Após fazer clone do projeto dar um npm install (Irá baixar todas dependencias do projeto)
 # Desafio questão 1 (Como executar):
    3 formas para executar o codigo:
    <br>
@@ -31,6 +33,10 @@ Desafio Programação
    <br> 
      -Entrar pelo terminal do Linux, Mac ou Windows acessar a pasta que está os desafios que é a "DesafioCapgemini" e rodar o comando node questao3.js
 
+# Como executar os testes unitarios:
+   Apos ter a dependencia instalada que e o Jest que está no package.json, caso não tenha, volte ao "primeiro passo". Mas caso você já tenha dado esse comando e só 
+   rodar o comando npm run test.    
+
 # Explicando questão 1: 
     Primeiro ele entra no for e cada repetição ele coloca o * atraves do indice montando a escada, após isso ele entra no segundo for na posição 1 pois tem que tirar
     todos esrpaçamentos e inevertendo a escada.
@@ -49,5 +55,5 @@ Desafio Programação
      Ele recebe a palavra ovo e verifica quantos anagramas a nele retirando sempre uma letra e conferindo com a palavra ao contraria 
      
 # Tecnologias utilizadas:
-     JavaScript, Regex e git.     
+     JavaScript, Regex, jest e git.     
      
