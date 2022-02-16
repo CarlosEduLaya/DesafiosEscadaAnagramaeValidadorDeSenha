@@ -8,3 +8,11 @@ describe("Testando a questao 1", () =>{
 
     });
 })
+describe("Testando a questao 1", () =>{
+    test('escada', () => {
+        const test2 = questao1.escada(0)
+
+        expect(test2).toBe(undefined);
+
+    });
+})
